@@ -1,0 +1,17 @@
+[
+  {
+    "content": "This post is awesome!",
+    "user_id": 2,
+    "post_id": 1
+  },
+  {
+    "content": "Now, I am in doubt about things.",
+    "user_id": 3,
+    "post_id": 3
+  },
+  {
+    "content": "Interesting...",
+    "user_id": 4,
+    "post_id": 2
+  }
+]

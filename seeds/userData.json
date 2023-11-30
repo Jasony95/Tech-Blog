@@ -1,0 +1,22 @@
+[
+  {
+    "username": "admin",
+    "password": "password1234"
+  },
+  {
+    "username": "user1",
+    "password": "password1234"
+  },
+  {
+    "username": "Sam12",
+    "password": "passwordTalkToMuch"
+  },
+  {
+    "username": "Britany43",
+    "password": "password123456789"
+  },
+  {
+    "username": "John32",
+    "password": "mdkeks;lnedfdsfasdfa"
+  }
+]
